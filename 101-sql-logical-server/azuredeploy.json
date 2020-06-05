@@ -137,7 +137,7 @@
       "name": "[variables('storageName')]",
       "location": "[parameters('location')]",
       "sku": {
-        "name": "Standard_LRS"
+        "name": "Standard_ZRS"
       },
       "kind": "StorageV2",
       "resources": [
